@@ -1,3 +1,3 @@
 $(document).ready(function() {
-    alert('Oh, hi there, world');
+    $('h1').text('Oh, hi there, world');
   });
